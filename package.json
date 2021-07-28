@@ -8,7 +8,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "jest/main.test.js"
+    "test": "jest src/main.test.js"
   },
   "repository": {
     "type": "git",
