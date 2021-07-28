@@ -11,3 +11,5 @@ function matchingBraces(inputString) {
 
     return n === 0;
 }
+
+export default matchingBraces;
