@@ -1,0 +1,27 @@
+{
+  "name": "matching-curly-braces",
+  "version": "1.0.0",
+  "description": "Test string for matching curly braces",
+  "main": "src/main.js",
+  "dependencies": {
+    "jest": "^27.0.6"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0"
+  },
+  "scripts": {
+    "test": "jest src/main.test.js",
+    "build": "babel src -d lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arkturix/matching-curly-braces.git"
+  },
+  "author": "Adam Magneson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arkturix/matching-curly-braces/issues"
+  },
+  "homepage": "https://github.com/arkturix/matching-curly-braces#readme"
+}
