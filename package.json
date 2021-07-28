@@ -4,10 +4,10 @@
   "description": "Test string for matching curly braces",
   "main": "src/main.js",
   "dependencies": {
-    "babel-cli": "^6.26.0",
     "jest": "^27.0.6"
   },
   "devDependencies": {
+    "babel-cli": "^6.26.0",
     "babel-preset-env": "^1.7.0"
   },
   "scripts": {
